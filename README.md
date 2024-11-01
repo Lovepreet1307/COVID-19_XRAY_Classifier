@@ -17,13 +17,17 @@ Data Sources
 COVID-19 Images:
 
 2,473 CXR images from padchest dataset
+
 183 CXR images from a Germany medical school
+
 559 CXR images from SIRM, Github, Kaggle & Twitter
+
 400 CXR images from additional Github sources
 
 Normal Images:
 
 8,851 images from RSNA
+
 1,341 images from Kaggle
 
 Lung Opacity Images:
