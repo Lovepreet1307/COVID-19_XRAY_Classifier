@@ -1,7 +1,10 @@
 # COVID-19_XRAY_Classifier
 A deep learning model to classify chest X-ray images for COVID-19 detection and related respiratory conditions.
+
 Dataset Overview
+
 Dataset Source: COVID-19 Radiography Database on Kaggle
+
 The dataset contains chest X-ray images across four categories:
 
 COVID-19 (3,616 images)
@@ -10,6 +13,7 @@ Lung Opacity (Non-COVID lung infection) (6,012 images)
 Viral Pneumonia (1,345 images)
 
 Data Sources
+
 COVID-19 Images:
 
 2,473 CXR images from padchest dataset
